@@ -1,4 +1,10 @@
----
+Fundraiser with sloppy Seconds
+  Trash/Treasure
+Clean out the old to help the old
+picking up and excepting alll sloppyswco.ds to restore to help th poor and more
+
+Gas donations for homless help dress emergency situations are needed to drive to needed civilian in need
+
 title: 'Adding your {% data variables.projects.project_v2 %} to a repository'
 shortTitle: 'Adding a {% data variables.projects.project_v2 %} to a repo'
 intro: 'You can add your {% data variables.projects.project_v2 %} to a repository to make it accessible from that repository.'
